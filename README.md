@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Jimmy and I'm a CS student and a Notion Consultant! <br>
+
+You can check out my Youtube here --> https://www.youtube.com/@magazinerolls <br>
+
 <!--
 **varadars/varadars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
