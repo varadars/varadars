@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jimmy and I'm a CS student and a Notion Consultant! <br>
+I'm Jimmy and I'm a Notion Consultant! <br>
 
 You can check out my Youtube here --> https://www.youtube.com/@magazinerolls <br>
 
